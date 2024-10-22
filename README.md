@@ -26,7 +26,7 @@ This portfolio website is designed to provide a comprehensive overview of my pro
 
 - HTML: For the structure of the website.
 - CSS: For styling and layout.
-- JavaScript: For interactive elements (Typescript effect, Responsive Navigation Menu and Scroll Progress Bar ).
+- JavaScript: For interactive elements (Typescript effect, Responsive Navigation Menu and Scroll Progress Bar).
 
 ## File Structure
 
