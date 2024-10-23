@@ -1,4 +1,4 @@
-# Amanuel Melkamu's Portfolio
+# Portfolio Website
 
 Welcome to my personal portfolio website! This site showcases my work, skills, and experiences. Below you will find information about the structure of the website and the content it includes.
 
